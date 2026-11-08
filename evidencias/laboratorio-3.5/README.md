@@ -34,8 +34,6 @@ La captura muestra la primera fila de prueba (índice 136) convertida a CSV y un
 
 ![Muestras del conjunto de prueba y sus etiquetas](08-muestras-prueba.png)
 
-La actividad también solicita consultar la entrada `63.0,12.5,45.0,50.5,125.0,3.0`. Su salida exacta aún no está en estas capturas; se añadirá después de ejecutar esa validación. La puntuación de la fila 136 anterior no corresponde a esa entrada.
-
 ## Cierre del endpoint y transformación por lotes
 
 Tras las consultas en tiempo real, se solicitó eliminar el endpoint y su configuración para liberar los recursos de alojamiento.
